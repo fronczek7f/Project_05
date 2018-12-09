@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project_05</string>
+    <string name="main_app">Main</string>
+    <string name="app_add">Add</string>
+    <string name="app_sub">Sub</string>
+    <string name="textForTextField1">Argument 1</string>
+    <string name="textForTextField2">Argument 2</string>
+    <string name="textForTextField3">Operation</string>
+    <string name="textForTextField4">Result</string>
+    <string name="textConstNone">None</string>
+    <string name="textConstEmptyString" />
+    <string name="textForButton">Execute</string>
+    <string name="arg_1_name">arg1</string>
+    <string name="arg_2_name">arg2</string>
+    <string name="to_few_arguments">To few arguments</string>
+    <string name="no_activity">There are no activity for your intent call</string>
+    <string name="operation">Operation</string>
+    <string name="result">Result</string>
+    <string name="addition">addition</string>
+    <string name="subtraction">subtraction</string>
+</resources>
